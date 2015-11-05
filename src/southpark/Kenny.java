@@ -92,11 +92,10 @@ public class Kenny {
         graphics.fillOval(x + (width * 84 / 100), y + (height * 557 / 1000), width * 6 / 100, height * 3 / 100);
         //FEET
         graphics.setColor(new Color(0, 0, 0));
-<<<<<<< HEAD
+
         graphics.fillOval(x + (width * 12 / 100), y + (height * 67 / 100), width * 38 / 100, height * 7 / 100);
         graphics.fillOval(x + (width * 49 / 100), y + (height * 665 / 1000), width * 38 / 100, height * 7 / 100);
-=======
->>>>>>> origin/master
+
 
     }
 
